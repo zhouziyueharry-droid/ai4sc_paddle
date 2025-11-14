@@ -1,0 +1,8 @@
+.git/
+.idea/
+__pycache__/
+*.pyc
+raw_data/
+train_output/
+test_output/
+data/
